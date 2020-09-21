@@ -17,7 +17,7 @@ Fitur Aplikasi
 -----------
 Changelog
 -----------
-Versi 1.1
+Versi 1.1 (21 Sep 2020)
 - Penambahan buffer pada menu input master barang
 - penambahan stamp user pada menu mutasi ntuk melihat siap ayan gmelakukan transaksi
 
