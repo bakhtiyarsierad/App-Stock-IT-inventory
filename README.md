@@ -13,3 +13,13 @@ Fitur
 -view Realtime Stock
 -To Do
 -User
+
+Change log
+
+Versi 1.1
+- Penambahan buffer pada menu input master barang
+- penambahan stamp user pada menu mutasi ntuk melihat siap ayan gmelakukan transaksi
+
+
+Versi 1.0
+- Penambhan menu dashboard scan in out, mutasi dan stock terkini
